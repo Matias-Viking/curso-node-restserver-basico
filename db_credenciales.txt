@@ -1,0 +1,4 @@
+user: user_node_cafe
+pass:xzN1Sk3VJiErOsmY
+
+con_string: mongodb+srv://user_node_cafe:xzN1Sk3VJiErOsmY@cluster0.uwk1hem.mongodb.net/cafeDB
